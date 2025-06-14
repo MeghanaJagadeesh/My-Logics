@@ -10,7 +10,7 @@ Output: { 'r': 2, 'g': 2, 'm': 2 }
 TC=>O(n)
 SC=> O(n)
  */
-public class DuplicateString {
+public class DuplicateChar {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter the string : ");
