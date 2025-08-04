@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MyLogics.iml" filepath="$PROJECT_DIR$/MyLogics.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Servers/Servers.iml" filepath="$PROJECT_DIR$/Servers/Servers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/score.iml" filepath="$PROJECT_DIR$/score.iml" />
     </modules>
   </component>
 </project>

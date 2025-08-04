@@ -40,7 +40,7 @@ public class CrashingStone {
 
 	private static int crashingStone(int[] arr) {
 		
-		//Queue follows FIFO to get the max stone weight, so to order the element in a descending order we have used  Collections.reverseOrder()
+		//Queue follows FIFO to get the max stone weight, so to order the element in descending order we have used  Collections.reverseOrder()
 		PriorityQueue<Integer> maxHeap=new PriorityQueue<Integer>(Collections.reverseOrder());
 		
 		for(int element:arr) {
