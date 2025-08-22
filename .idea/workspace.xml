@@ -1,17 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a47eb7fb-ffe8-4aee-b46f-8c54ce9c5c4e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="d9ccff76-7ee3-462d-9c6a-cab7767fc263" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Compare/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Compare/MainClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Paypal/CrashingStone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Paypal/CrashingStone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyLogics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MyLogics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Alteryx/Flatten.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Alteryx/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/CheckArraySortedInAscending.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/CheckSubArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/CommonElementInTwoArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/FindTheMissingNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/FirstNonRepeatingChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/FreqyencyElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/InterSectionOfTwoArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/KthLargeAndSmall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/LargestSubarrayWithSum0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/LongestAlternatingSubarray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/LongestSubstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/MaximumDifference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/MaximumManimum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/Meem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/MergerArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/MostFrequent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/MoveAllZeros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/PalindromicSubarray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/RemoveDuplicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/RotateArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/SumOfDiagonals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/TwoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Arrays/UnionOfTwoArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Compare/EmployeOverview.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Compare/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Compare/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/HRString/LexicographicalOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/LinkedList/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/LinkedList/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/LinkedList/Operation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Numbers/ArmStrongNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Numbers/AutomorphicNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Numbers/Count.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Numbers/EvenOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Numbers/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Numbers/Fetch2Digit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Numbers/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Numbers/FizzBuzz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Numbers/GCDorHCF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Numbers/HappyNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Numbers/HarshadNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Numbers/LCM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Numbers/ModulasAndQuotient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Numbers/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Numbers/PerfectNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Numbers/PrimeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Numbers/ReverseNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Numbers/SpyNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Numbers/StrongNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Numbers/SumAndSquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Numbers/TrailingZeosOfFactorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Paypal/CrashingStone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Paypal/FirstRound.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Searching/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Searching/LinearSerach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Strings/Anagram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Strings/CapitalizeEachFirstLetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Strings/DuplicateChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Strings/FrequencyOfString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Strings/FrequentChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Strings/LongestWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Strings/NonRepeatChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Strings/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Strings/PalindromicSubstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Strings/Panagram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Strings/PermutationOfString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Strings/RemoveWhitespaces.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Strings/ReplaceAllOccuranceChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Strings/ReverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Strings/ReverseWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Strings/SortString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Strings/StringInbuiltMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Strings/VowelAndConsonants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/google/Entity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/google/GoogleAverageLatency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/google/TreeRound1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/iecxceed/iexceed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/practice/StringClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sorting/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sorting/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/threads/Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/threads/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/threads/SyncTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/threads/Synchronize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/threads/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/threads/ThreadStates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/threads/ThreadTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/threads/World.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/score.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Alteryx/Flatten.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Alteryx/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Paypal/CrashingStone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Paypal/FirstRound.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google/GoogleAverageLatency.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google/TreeRound1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iecxceed/iexceed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,28 +144,56 @@
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
-  <component name="ProjectId" id="30imarqkwuGYiZI7U1U8PYR6B3Y" />
+  <component name="ProjectId" id="30oTXVS3UsmMs24ivpa4z4WnAKq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ADMIN/OneDrive/Desktop/my codes/MyLogics"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Flatten.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReentrantExample.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ADMIN/OneDrive/Desktop/my codes/MyLogics&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="ReentrantExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threads.ReentrantExample" />
+      <module name="MyLogics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReentrantExample" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a47eb7fb-ffe8-4aee-b46f-8c54ce9c5c4e" name="Changes" comment="" />
-      <created>1754118834072</created>
+      <changelist id="d9ccff76-7ee3-462d-9c6a-cab7767fc263" name="Changes" comment="" />
+      <created>1754292965282</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1754118834072</updated>
+      <updated>1754292965282</updated>
     </task>
     <servers />
   </component>
